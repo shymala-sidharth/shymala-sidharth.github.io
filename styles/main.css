@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #92a4df;
+  text-align: center;
+  background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width/public/thumbnails/image/web_first_images_release.png?itok=g21NrdRw);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.nav {
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-around;
+  align-content: flex-end;
+}
+
+.aboutme {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: #cccc84;
+  text-align: center;
+  background-image: url(https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/nhq202108100009_orig.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.me {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  color: #cccc84;
+  text-align: center;
+}
+
+.interest {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #cccc84;
+  text-align: left;
+}
